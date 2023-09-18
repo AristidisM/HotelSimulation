@@ -15,8 +15,6 @@ This Java application simulates the operation of a hotel, allowing you to manage
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
