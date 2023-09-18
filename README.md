@@ -33,7 +33,7 @@ Before running the simulation, make sure you have the following installed:
 
 2. Open the project in your preferred Java IDE (Eclipse, IntelliJ, etc.).
 
-3. Build and run the `ASKHSH1` class to start the simulation.
+3. Build and run the `HotelSimulation` class to start the simulation.
 
 ## How to Use
 
@@ -47,7 +47,7 @@ Before running the simulation, make sure you have the following installed:
 
 ## Code Structure
 
-- **`ASKHSH1`**: The main class containing the `main` method to run the simulation.
+- **`HotelSimulation`**: The main class containing the `main` method to run the simulation.
 
 - **`Client`**: Represents a hotel client. Generates random client information and decides booking details.
 
